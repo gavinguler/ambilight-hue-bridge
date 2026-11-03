@@ -1,0 +1,2 @@
+pyatv==0.18.0
+srptools<2  # srptools 2.0 changed SRPClientSession and breaks pyatv pairing

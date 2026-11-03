@@ -1,0 +1,17 @@
+{
+  "hue": {
+    "ip": "192.168.1.20",
+    "username": "written by pair_hue.py",
+    "clientkey": "written by pair_hue.py"
+  },
+  "tv": {
+    "ip": "192.168.1.30",
+    "device_id": "written by pair_tv.py",
+    "auth_key": "written by pair_tv.py"
+  },
+  "entertainment_area": "TV area",
+  "room": "Living room",
+  "apple_tv": {
+    "id": "optional, written by pair_atv.py"
+  }
+}
