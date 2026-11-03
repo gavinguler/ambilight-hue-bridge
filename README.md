@@ -2,6 +2,8 @@
 
 Make your Philips Hue lights follow your Philips Ambilight TV, with no HDMI box and no camera. The bridge reads the colours the TV already measures for Ambilight and streams them to a Hue entertainment area at 25 fps.
 
+> **Built for Philips TVs that have Ambilight but no Hue Sync support.** Some Philips models link Ambilight to Hue themselves (the "Ambilight + Hue" setting or the Hue Sync TV app). Many Ambilight TVs don't. This project gives those TVs the same effect, using the Ambilight data the TV already exposes over its local API. If your TV has Hue Sync built in, you don't need this.
+
 It also has an optional **cinema autopilot** for an Apple TV. When a video starts, the room dims and the sync takes over. When you pause, the lights come up softly. When playback stops, every light goes back to how it was.
 
 ## Requirements
